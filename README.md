@@ -1,16 +1,34 @@
-### Hi there 👋
+### Oi! Eu sou o Pedro. 🙋🏻‍♂️
+Programador front-end com o objetivo de facilitar a vida das pessoas através dos códigos. Cursando Sistemas de Informação na Universidade de Uberaba (Uniube) e buscando uma oportunidade na área da tecnologia, com foco no aprendizado e em contribuir ao máximo com a empresa.
 
-<!--
-**goncalvespedrogom/goncalvespedrogom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
+<div style="display: inline_block">
+  <img align="center" alt="Pedro-Html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img align="center" alt="Pedro-Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>   
+  <img align="center" alt="Pedro-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
+  <img align="center" alt="Pedro-Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>  
+</div>
 
-Here are some ideas to get you started:
+### Meu contatos
+<div>
+  <a href="https://www.linkedin.com/in/pedro-goncalves-gomes/" target="_blanq"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanq"></a>
+  <a href="https://www.instagram.com/offpxdrx"" target="_blanq"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blanq"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+<div>
+  <a href="https://github.com/goncalvespedrogom">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=goncalvespedrogom&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedrogom&layout=compact&langs_count=16&theme=github_dark"/>
+</div>
+
+
+
+
+
+
+
+
+            
+           
+          

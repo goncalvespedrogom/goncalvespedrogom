@@ -1,6 +1,5 @@
 ### Oi! Eu sou o Pedro. 🙋🏻‍♂️
-Programador front-end com o objetivo de facilitar a vida das pessoas através dos códigos. Cursando Sistemas de Informação na Universidade de Uberaba (Uniube) e buscando uma oportunidade na área da tecnologia, com foco no aprendizado e em contribuir ao máximo com a empresa.
-<hr>
+Programador front-end com o objetivo de facilitar a vida das pessoas através dos códigos. Cursando Sistemas de Informação na Universidade de Uberaba (Uniube) e buscando uma oportunidade na área da tecnologia. <hr>
 
 ### Habilidades
 <div style="display: inline_block">

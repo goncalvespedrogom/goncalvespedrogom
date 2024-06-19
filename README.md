@@ -1,5 +1,5 @@
 ### Oi! Eu sou o Pedro. 🙋🏻‍♂️
-Programador front-end com o objetivo de facilitar a vida das pessoas através dos códigos. Cursando Sistemas de Informação na Universidade de Uberaba (Uniube) e buscando uma oportunidade na área da tecnologia. <hr>
+Programador front-end com o objetivo de facilitar a vida das pessoas através dos códigos. Cursando Sistemas de Informação na Universidade de Uberaba (Uniube) e sempre buscando evoluir meu aprendizado e minhas habilidades. <hr>
 
 ### Minhas Habilidades
 <div style="display: inline_block">
@@ -12,6 +12,7 @@ Programador front-end com o objetivo de facilitar a vida das pessoas através do
 <div>
   <a href="https://www.linkedin.com/in/pedro-goncalves-gomes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/offpxdrx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://devpedro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
 </div>
 
 ### GitHub Stats
@@ -20,3 +21,5 @@ Programador front-end com o objetivo de facilitar a vida das pessoas através do
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=goncalvespedrogom&show_icons=true&theme=github_dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedrogom&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
+
+

@@ -20,7 +20,7 @@ A front-end developer aiming to make people's lives easier through code. Current
 ### Contacts
 <div>
   <a href="https://www.linkedin.com/in/pedro-goncalves-gomes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://devpedro.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
+  <a href="https://pedrogoncalves.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
   <a href="https://www.instagram.com/offpxdrx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 

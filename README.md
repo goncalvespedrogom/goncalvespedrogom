@@ -23,9 +23,3 @@ A front-end developer aiming to make people's lives easier through code. Current
   <a href="https://pedrogoncalves.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"></a>
   <a href="https://www.instagram.com/offpxdrx" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
-
-### GitHub Stats
-<div>
-  <a href="https://github.com/goncalvespedrogom">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalvespedrogom&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
